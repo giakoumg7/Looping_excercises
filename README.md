@@ -1,5 +1,16 @@
 # Looping_excercises #Learning_Actors
 
+Write a JavaScript for loop that will iterate from 0
+to 15. For each iteration, it will check if the current
+number is odd or even, and display a message to
+the screen.
+● Rewrite the following code segment using a while
+loop, do while loop
+sum = 0;
+for (x = 1; x <= 10; x++) {
+sum += Math.pow(x,2);
+}
+
 Write a for loop that will iterate from 0 to 10. For
 each iteration of the for loop, it will multiply the
 number by 9 and log the result (e.g. "2 * 9 = 18").
