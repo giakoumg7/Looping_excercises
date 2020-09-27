@@ -1,5 +1,4 @@
-# Looping_excercises
-Looping_excercises_Learning_Actors
+# Looping_excercises #Learning_Actors
 
 Write a for loop that will iterate from 0 to 10. For
 each iteration of the for loop, it will multiply the
